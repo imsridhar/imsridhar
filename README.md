@@ -1,4 +1,4 @@
-### **📢 I'm seeking SWE internship opportunities for Fall 2023!**
+### **📢 I'm seeking Pre-doc opportunities in Systems and applied ML roles**
 
 <hr>
 
