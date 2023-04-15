@@ -24,11 +24,11 @@ My name is Sridhar, and I am a Grad Computer Science student at the IIIT Hyderab
 -->
 
 I am always up for a quickchat. Would love to know about you, need not be work specific. 
-- Website: [imsridhar.github.io](https://imsridhar.github.io)
-- Resume: [imsridhar.github.io/resume](https://imsridhar.github.io/resume)
 - LinkedIn: [www.linkedin.com/in/imsridhar/](https://www.linkedin.com/in/imsridhar/)
 - Twitter: [DM me on Twitter](https://twitter.com/imsridhar_)
 - Email: [sridharmallareddy@gmail.com](mailto:sridharmallareddy@gmail.com)
+- Website: [imsridhar.github.io](https://imsridhar.github.io)
+- Resume: [imsridhar.github.io/resume](https://imsridhar.github.io/resume)
 
 ![](https://komarev.com/ghpvc/?username=imsridhar)
 
